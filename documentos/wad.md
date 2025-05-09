@@ -18,8 +18,9 @@
 
 ## <a name="c1"></a>1. Introdução (Semana 01)
 
-*Preencha com até 300 palavras – sem necessidade de fonte.*
-*Descreva brevemente o sistema que você irá desenvolver.*
+&nbsp;&nbsp;&nbsp;&nbsp; O sistema que será desenvolvido é um gerenciador de tarefas online, pensado para facilitar a organização pessoal e o trabalho em equipe. A aplicação permitirá que usuários criem, visualizem, editem, categorizem e atribuam tarefas, promovendo maior produtividade e controle sobre atividades diárias, acadêmicas ou profissionais. <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; Cada usuário poderá se cadastrar, acessar seu painel de tarefas, definir prioridades, prazos e acompanhar o status de suas atividades. Além disso, será possível classificar tarefas por categorias, facilitando a segmentação e a busca por assuntos ou projetos específicos. O sistema também permitirá a atribuição de tarefas a diferentes usuários, tornando-o útil tanto para uso individual quanto colaborativo. <br>
 
 ---
 
@@ -31,9 +32,20 @@
 
 ### 2.2. User Stories (Semana 01 - opcional)
 
-*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+US01: Como usuário, quero criar uma tarefa com título, descrição e data de entrega para organizar minhas atividades.
 
----
+US02: Como usuário, quero visualizar todas as minhas tarefas em uma lista para acompanhar o que preciso fazer.
+
+US03: Como usuário, quero editar ou excluir tarefas para manter minha lista sempre atualizada.
+
+US04: Como usuário, quero categorizar minhas tarefas para facilitar a organização por assuntos ou projetos.
+
+US05: Como gerente, quero atribuir tarefas a outros usuários para distribuir responsabilidades na equipe.
+
+US06: Como usuário, quero marcar tarefas como concluídas para acompanhar meu progresso.
+
+US07: Como usuário, quero filtrar tarefas por categoria, prioridade ou status para encontrar rapidamente o que preciso.
+
 
 ## <a name="c3"></a>3. Projeto da Aplicação Web
 
@@ -97,6 +109,6 @@
 ## <a name="c5"></a>5. Referências
 
 _Incluir as principais referências de seu projeto, para que o leitor possa consultar caso ele se interessar em aprofundar._<br>
-
+[2]ORGANICA DIGITAL. Wireframes, o que são e por que os utilizamos? 2023. Disponível em: https://www.organicadigital.com/blog/o-que-sao-wireframes-e-por-que-os-utilizamos/. Acesso em: 8 maio 2025
 ---
 ---
