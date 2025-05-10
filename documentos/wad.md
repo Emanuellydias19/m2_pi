@@ -147,34 +147,34 @@ Gerar relatórios de desempenho e produtividade, para embasar decisões estraté
 
 &nbsp;&nbsp;&nbsp;&nbsp; Para garantir que o gerenciador de tarefas atenda às necessidades reais de seus principais públicos, foram criadas User Stories inspiradas nas personas Mariana e Amanda. Mariana busca produtividade, integração com ferramentas digitais e flexibilidade para lidar com múltiplos projetos, enquanto Amanda valoriza organização estratégica, processos claros e praticidade no acompanhamento de demandas. As histórias a seguir refletem seus desafios, objetivos e expectativas, orientando o desenvolvimento de funcionalidades relevantes para o sistema. <br>
 
-US01:
+**US01:**
 Como usuária multitarefas, desejo criar tarefas rapidamente com título, descrição, data de entrega e prioridade, para registrar todas as minhas demandas assim que surgirem e não perder prazos importantes.
 
-US02:
+**US03:**
 Como usuária que atua em vários projetos, desejo visualizar minhas tarefas agrupadas por projeto ou categoria, para organizar melhor meu fluxo de trabalho e evitar confusão entre atividades distintas.
 
-US03:
+**US03:**
 Como planejadora estratégica, desejo atribuir tarefas a diferentes membros da equipe, para garantir que cada responsabilidade esteja claramente definida e acompanhada por quem deve executá-la.
 
-US04:
+**US04:**
 Como usuária que valoriza integração, desejo receber notificações automáticas no Slack ou e-mail sempre que uma tarefa for criada, atualizada ou concluída, para me manter informada sem precisar acessar o sistema a todo momento.
 
-US05:
+**US05:**
 Como esportista radical e profissional dinâmica, desejo marcar tarefas como concluídas de forma simples e rápida, para acompanhar meu progresso e sentir motivação ao ver minhas conquistas diárias.
 
-US06:
+**US06:**
 Como leitora ávida, desejo acessar um histórico detalhado de tarefas já realizadas, para analisar padrões de produtividade e identificar oportunidades de melhoria em minha rotina.
 
-US07:
+**US07:**
 Como planejadora, desejo filtrar tarefas por status, prioridade, responsável ou data de entrega, para encontrar rapidamente o que precisa ser feito e tomar decisões mais assertivas.
 
-US08:
+**US08:**
 Como usuária que preza por processos claros, desejo editar ou excluir tarefas já cadastradas, para manter minha lista sempre atualizada e alinhada às mudanças de prioridade ou escopo.
 
-US09:
+**US09:**
 Como profissional que trabalha em campo e no escritório, desejo acessar o gerenciador de tarefas pelo celular com interface responsiva, para acompanhar e atualizar atividades de qualquer lugar.
 
-US10:
+**US010:**
 Como pessoa que valoriza feedback, desejo receber lembretes automáticos de tarefas próximas do vencimento, para evitar atrasos e garantir que nada importante seja esquecido.
 
 &nbsp;&nbsp;&nbsp;&nbsp; Essas User Stories foram elaboradas considerando os perfis, dores e objetivos de Mariana e Amanda, garantindo que o sistema ofereça funcionalidades alinhadas à realidade de profissionais modernos e exigentes. Ao priorizar essas histórias no desenvolvimento, o projeto potencializa a entrega de valor, promovendo organização, eficiência, integração e praticidade no dia a dia das usuárias. <br>
@@ -192,7 +192,7 @@ Como pessoa que valoriza feedback, desejo receber lembretes automáticos de tare
 <div align = "center">
 <sup>Figura 3: Modelo relacional do banco de dados .</sup><br>
  
-![alt text](<../assets/modelo relacional.png>)
+![Modelo relacional](<../assets/modelo relacional.png>)
 
 <sub>Fonte: Material produzido pelos autores (2025).</sub><br>
 </div>
@@ -203,13 +203,27 @@ link da figura: https://www.figma.com/design/R9xtpCkTsqrd4Ffys2nXxh/Untitled?nod
 
 &nbsp;&nbsp;&nbsp;&nbsp; A fase do modelo físico do banco de dados é quando o projeto de dados se converte em uma estrutura sólida e minuciosa, pronta para ser aplicada em um sistema de gestão de banco de dados específico, como MySQL, Oracle ou SQL Server.  Neste modelo, as entidades e relações estabelecidas nas etapas conceitual e lógica são transpostas para tabelas, colunas com tipos de dados adequados, chaves primárias e estrangeiras, índices, restrições e outros componentes técnicos imprescindíveis para assegurar a performance, integridade e segurança dos dados.  Sua importância para um projeto reside no fato de que ele traduz os requisitos do negócio e as regras de dados em uma implementação real, permitindo que o sistema funcione de maneira eficiente, confiável e aderente às necessidades da organização. <br>
 
+<br>
+
 ```javascript
 CREATE TABLE `Status` (
   `status_id ` INT PRIMARY KEY AUTO_INCREMENT,
   `name` varchar(100) NOT NULL
 );
 ```
+### Tabela Status
+&nbsp;&nbsp;&nbsp;&nbsp;  **Função:** Armazena os possíveis status de uma tarefa (ex: "Pendente", "Em Progresso", "Concluída").<br>
 
+&nbsp;&nbsp;&nbsp;&nbsp; **Campos:**
+
+- status_id: Identificador único do status (chave primária).
+
+- name: Nome do status (ex: "Pendente").
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Relacionamentos:**
+A tabela Tasks referencia status_id para definir o estado atual de uma tarefa.
+
+<br>
 
 ```javascript
 CREATE TABLE `Users` (
@@ -219,6 +233,22 @@ CREATE TABLE `Users` (
   `created_at` DATETIME DEFAULT  CURRENT_TIMESTAMP        
 );
 ```
+#### Tabela Users
+&nbsp;&nbsp;&nbsp;&nbsp; **Função:** Armazena os dados dos usuários do sistema.
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Campos:**
+
+- user_id: Identificador único do usuário (chave primária).
+
+- nome: Nome do usuário.
+
+- birth_date: Data de nascimento do usuário.
+
+- created_at: Data/hora de criação do cadastro (preenchida automaticamente).
+
+**Relacionamentos:**
+&nbsp;&nbsp;&nbsp;&nbsp; A tabela Tasks referencia creator_id para identificar o criador da tarefa. A tabela Users_Tasks referencia user_id para atribuir tarefas a usuários. <br>
+<br>
 
 ```javascript
 CREATE TABLE `Category` (
@@ -227,6 +257,21 @@ CREATE TABLE `Category` (
   `description` varchar(255)
 );
 ```
+#### Tabela Category
+&nbsp;&nbsp;&nbsp;&nbsp; **Função:** Define categorias para classificar tarefas (ex: "Trabalho", "Estudos"). <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Campos:**
+
+- category_id: Identificador único da categoria (chave primária).
+
+- name: Nome da categoria.
+
+- description: Descrição opcional da categoria.
+
+**Relacionamentos:**
+&nbsp;&nbsp;&nbsp;&nbsp; A tabela Tasks referencia category_id para categorizar tarefas. <br>
+
+<br>
 
 ```javascript
 CREATE TABLE `Priority` (
@@ -234,6 +279,20 @@ CREATE TABLE `Priority` (
   `name` varchar(100) NOT NULL
 );
 ```
+
+#### Tabela Priority
+&nbsp;&nbsp;&nbsp;&nbsp; **Função:** Define níveis de prioridade para as tarefas (ex: "Alta", "Média", "Baixa"). <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Campos:**
+
+- priority_id: Identificador único da prioridade (chave primária). <br>
+
+- name: Nome da prioridade. <br>
+
+**Relacionamentos:**
+&nbsp;&nbsp;&nbsp;&nbsp; A tabela Tasks referencia priority_id para definir a urgência da tarefa. <br>
+
+<br>
 
 ```javascript
 CREATE TABLE `Tasks` (
@@ -250,6 +309,30 @@ CREATE TABLE `Tasks` (
   FOREIGN KEY (`priority_id (fk)`) REFERENCES `Priority`(`priority_id `)
 );
 ```
+#### Tabela Tasks
+&nbsp;&nbsp;&nbsp;&nbsp; **Função:** Armazena todas as informações das tarefas criadas.
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Campos:**
+
+- task_id: Identificador único da tarefa (chave primária).
+
+- title: Título da tarefa.
+
+- description: Descrição detalhada da tarefa.
+
+- due_date: Data de vencimento da tarefa.
+
+- category_id: Categoria da tarefa (chave estrangeira para Category).
+
+- creator_id: Usuário que criou a tarefa (chave estrangeira para Users).
+
+- status_id: Status atual da tarefa (chave estrangeira para Status).
+
+- priority_id: Prioridade da tarefa (chave estrangeira para Priority).
+
+&nbsp;&nbsp;&nbsp;&nbsp; **Relacionamentos:**
+Referencia Category, Status, Priority e Users para definir categorização, estado, urgência e criador. <br>
+<br>
 
 ```javascript
 CREATE TABLE `Users_Tasks` (
@@ -260,6 +343,20 @@ CREATE TABLE `Users_Tasks` (
   FOREIGN KEY (`task_id (pk)(fk)`) REFERENCES `Tasks`(`task_id `)
 );
 ```
+#### Tabela Users_Tasks
+&nbsp;&nbsp;&nbsp;&nbsp;**Função:** Tabela de associação para relacionar usuários e tarefas (muitos-para-muitos). <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**Campos:**
+
+- user_task_id: Identificador único da associação (chave primária). <br>
+
+- user_id: Identificador do usuário (chave estrangeira para Users). <br>
+
+- task_id: Identificador da tarefa (chave estrangeira para Tasks). <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;  **Relacionamentos:** Permite que uma tarefa seja atribuída a múltiplos usuários e que um usuário tenha múltiplas tarefas. <br>
+
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; A modelagem conceitual é essencial para garantir que o banco de dados atenda às necessidades do negócio, facilitando o entendimento e a comunicação entre todos os envolvidos no projeto. Ela organiza as entidades principais (como usuários, tarefas, categorias, status e prioridades) e define claramente como elas se relacionam, servindo de base para a implementação lógica e física do banco de dados. <br>
 
