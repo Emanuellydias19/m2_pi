@@ -49,6 +49,24 @@ Localização: Florianópolis, SC. <br>
 ### Bio:
 &nbsp;&nbsp;&nbsp;&nbsp; Mariana trabalha remotamente para uma startup de tecnologia e é conhecida pela empatia e facilidade de comunicação com colegas de equipe. Atua em múltiplos projetos simultaneamente e, quando a demanda aumenta, sente dificuldade em organizar suas tarefas e prazos. Valoriza produtividade e ferramentas que se integrem com seu fluxo de trabalho (Slack, GitHub, etc.). Fora do expediente, Mariana encontra equilíbrio e inspiração praticando esportes radicais, como escalada e paraquedismo. Esse hobby não só proporciona momentos de aventura e autossuperação, mas também contribui para desenvolver habilidades como foco, coragem diante de desafios e resiliência – características que ela traz para sua rotina profissional, tornando-se ainda mais estratégica e preparada para lidar com situações de alta pressão e mudanças rápidas <br>
 
+### Interesses 
+
+- **Esportes radicais:** Mariana pratica escalada, paraquedismo e outras atividades de aventura, buscando desafios que estimulem coragem, autossuperação e foco.
+
+- **Tecnologia e inovação:** Tem grande interesse em novas ferramentas digitais, integrações entre plataformas (como Slack e GitHub) e soluções que otimizem o fluxo de trabalho remoto.
+
+- **Produtividade e métodos ágeis:** Gosta de estudar e aplicar metodologias ágeis, técnicas de organização pessoal e hacks de produtividade para lidar com múltiplos projetos.
+
+- **Comunicação e trabalho em equipe:** Valoriza ambientes colaborativos, participa de comunidades de desenvolvedores e busca sempre aprimorar suas habilidades interpessoais.
+
+- **Viagens e experiências culturais:** Aproveita oportunidades para conhecer novos lugares, culturas e pessoas, o que contribui para sua criatividade e adaptabilidade.
+
+- **Bem-estar e equilíbrio:** Pratica meditação, yoga ou esportes ao ar livre para manter o equilíbrio entre vida pessoal e profissional, reduzindo o estresse do dia a dia.
+
+- **Aprendizado contínuo:** Investe em cursos online, workshops e leituras sobre tecnologia, desenvolvimento de software e soft skills, mantendo-se atualizada no mercado.
+
+- **Sustentabilidade e impacto social:** Se interessa por iniciativas de tecnologia voltadas para causas sociais e ambientais, buscando alinhar propósito e carreira.
+<br>
 
 ### Dores:
 
@@ -102,15 +120,15 @@ Localização: Rio de Janeiro, RJ;
 &nbsp;&nbsp;&nbsp;&nbsp; Amanda Souza é planejadora estratégica no Rio de Janeiro, reconhecida por sua postura organizada, olhar atento aos detalhes e expressão confiante. Jovem e dedicada, Amanda alia sua experiência em coordenar equipes e gerenciar múltiplas demandas à busca constante por soluções inovadoras que tornem sua rotina mais inteligente e eficiente. Ela preza por processos claros, comunicação objetiva e ferramentas que otimizem o tempo, contribuindo para a redução de retrabalho e o aumento da produtividade do time. Fora do ambiente profissional, Amanda é apaixonada por leitura, especialmente livros de gestão, desenvolvimento pessoal e romances, encontrando na literatura inspiração para aprimorar sua atuação e trazer novas ideias para o cotidiano da empresa. Como planejadora, seu maior desafio é transformar organização em estratégia, garantindo que cada ação esteja alinhada aos objetivos de longo prazo. <br>
 
 ### Interesses
-Leitura: Apaixonada por livros de gestão, desenvolvimento pessoal e romances, busca inspiração e novas ideias na literatura. <br>
+- **Leitura:** Apaixonada por livros de gestão, desenvolvimento pessoal e romances, busca inspiração e novas ideias na literatura. <br>
 
-Organização e produtividade: Gosta de testar métodos e ferramentas que ajudem a tornar o dia a dia mais eficiente. <br>
+- **Organização e produtividade:** Gosta de testar métodos e ferramentas que ajudem a tornar o dia a dia mais eficiente. <br>
 
-Tecnologia aplicada à gestão: Se interessa por soluções digitais que simplifiquem processos e tragam inovação ao trabalho. <br>
+- **Tecnologia aplicada à gestão:** Se interessa por soluções digitais que simplifiquem processos e tragam inovação ao trabalho. <br>
 
-Crescimento profissional: Investe em cursos, workshops e leituras para aprimorar suas habilidades de liderança e planejamento. <br>
+- **Crescimento profissional:** Investe em cursos, workshops e leituras para aprimorar suas habilidades de liderança e planejamento. <br>
 
-Bem-estar e equilíbrio: Valoriza momentos de lazer, como leitura e caminhadas, para manter a mente saudável e criativa. <br>
+- **Bem-estar e equilíbrio:** Valoriza momentos de lazer, como leitura e caminhadas, para manter a mente saudável e criativa. <br>
 
 ### Dores 
 1. Falta de registro formal das tarefas, o que dificulta o acompanhamento e pode gerar retrabalho. <br>
@@ -128,54 +146,102 @@ Bem-estar e equilíbrio: Valoriza momentos de lazer, como leitura e caminhadas, 
 7. Desafios para manter a motivação da equipe diante de rotinas repetitivas ou falta de feedback claro. <br>
 
 ### Necessidades
-Centralizar e delegar tarefas de forma rápida e objetiva, sem burocracia, para otimizar o tempo e garantir clareza nas responsabilidades. <br>
+1. Centralizar e delegar tarefas de forma rápida e objetiva, sem burocracia, para otimizar o tempo e garantir clareza nas responsabilidades. <br>
 
-Ter um histórico claro e acessível do que foi feito, permitindo análises e aprendizados para aprimorar processos futuros. <br>
+2. Ter um histórico claro e acessível do que foi feito, permitindo análises e aprendizados para aprimorar processos futuros. <br>
 
-Visualizar facilmente as pendências de cada colaborador, facilitando o acompanhamento do andamento das atividades da equipe. <br>
+3. Visualizar facilmente as pendências de cada colaborador, facilitando o acompanhamento do andamento das atividades da equipe. <br>
 
-Acompanhar e atualizar tarefas pelo celular, mesmo quando está fora do escritório, garantindo mobilidade e controle em tempo real. <br>
+4. Acompanhar e atualizar tarefas pelo celular, mesmo quando está fora do escritório, garantindo mobilidade e controle em tempo real. <br>
 
-Receber lembretes automáticos e notificações inteligentes, evitando esquecimentos e melhorando o cumprimento de prazos. <br>
+5. Receber lembretes automáticos e notificações inteligentes, evitando esquecimentos e melhorando o cumprimento de prazos. <br>
 
-Personalizar categorias e prioridades, adaptando o sistema à dinâmica específica de sua equipe e projetos. <br>
+6. Personalizar categorias e prioridades, adaptando o sistema à dinâmica específica de sua equipe e projetos. <br>
 
-Gerar relatórios de desempenho e produtividade, para embasar decisões estratégicas e apresentar resultados à liderança. <br>
+7. Gerar relatórios de desempenho e produtividade, para embasar decisões estratégicas e apresentar resultados à liderança. <br>
 
 
 ### 2.2. User Stories 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Para garantir que o gerenciador de tarefas atenda às necessidades reais de seus principais públicos, foram criadas User Stories inspiradas nas personas Mariana e Amanda. Mariana busca produtividade, integração com ferramentas digitais e flexibilidade para lidar com múltiplos projetos, enquanto Amanda valoriza organização estratégica, processos claros e praticidade no acompanhamento de demandas. As histórias a seguir refletem seus desafios, objetivos e expectativas, orientando o desenvolvimento de funcionalidades relevantes para o sistema. <br>
 
-**US01:**
-Como usuária multitarefas, desejo criar tarefas rapidamente com título, descrição, data de entrega e prioridade, para registrar todas as minhas demandas assim que surgirem e não perder prazos importantes.
 
-**US03:**
-Como usuária que atua em vários projetos, desejo visualizar minhas tarefas agrupadas por projeto ou categoria, para organizar melhor meu fluxo de trabalho e evitar confusão entre atividades distintas.
+Identificação| US01 (Prioritária)
+--- | ---
 
-**US03:**
-Como planejadora estratégica, desejo atribuir tarefas a diferentes membros da equipe, para garantir que cada responsabilidade esteja claramente definida e acompanhada por quem deve executá-la.
+Persona |
+User Story | Como usuária multitarefas, desejo criar tarefas rapidamente com título, descrição, data de entrega e prioridade, para registrar todas as minhas demandas assim que surgirem e não perder prazos importantes.
+Critério de aceite 1| CR1: O sistema permite cadastrar tarefas com título, descrição, data de entrega e prioridade em uma única tela ou modal.
+Critério de aceite 2 |CR2: Tarefas são salvas imediatamente após o cadastro, sem necessidade de recarregar a página.
+Critério de aceite 3 | CR3: Campos obrigatórios são validados e o usuário recebe feedback visual em caso de erro.
+Critérios INVEST |  **Independente:** Não depende de outras funcionalidades, pode ser implementada isoladamente. <br> **Negociável:** O layout do formulário e campos adicionais podem ser ajustados conforme feedback do usuário. <br> **Valorosa:** Permite registrar demandas de forma ágil, evitando perda de informações e prazos. <br> **Estimável:** O escopo é claro e pode ser facilmente dimensionado pela equipe.<br> **Small:**Focada apenas no cadastro rápido de tarefas, sem misturar com outras operações <br> **Testável:** Pode-se testar se a tarefa é criada corretamente e se os campos obrigatórios são validados.
 
-**US04:**
-Como usuária que valoriza integração, desejo receber notificações automáticas no Slack ou e-mail sempre que uma tarefa for criada, atualizada ou concluída, para me manter informada sem precisar acessar o sistema a todo momento.
+Identificação| US02 (Prioritária)
+--- | ---
 
-**US05:**
-Como esportista radical e profissional dinâmica, desejo marcar tarefas como concluídas de forma simples e rápida, para acompanhar meu progresso e sentir motivação ao ver minhas conquistas diárias.
+Persona |
+User Story | Como usuária que atua em vários projetos, desejo visualizar minhas tarefas agrupadas por projeto ou categoria, para organizar melhor meu fluxo de trabalho e evitar confusão entre atividades distintas.
+Critério de aceite 1| CR1: O sistema exibe tarefas agrupadas por projeto ou categoria em listas ou colunas separadas.
+Critério de aceite 2 |CR2: O usuário pode alternar entre diferentes projetos/categorias facilmente.
+Critério de aceite 3 | CR3: A interface mantém clareza visual mesmo com muitos projetos/categorias.
+Critérios INVEST |  **Independente:** Não depende de filtros avançados ou integrações externas. <br> **Negociável:** A forma de agrupamento (colunas, listas, abas) pode ser ajustada conforme preferência dos usuários. <br> **Valorosa:** Facilita a organização e reduz confusão em ambientes com múltiplos projetos. <br> **Estimável:** A equipe pode dimensionar o esforço para implementar agrupamentos visuais. <br> **Small:** Focada apenas na visualização agrupada, sem misturar com edição ou filtros complexos.<br> **Testável:** Pode-se testar se as tarefas aparecem corretamente agrupadas e se a navegação é intuitiva.
 
-**US06:**
-Como leitora ávida, desejo acessar um histórico detalhado de tarefas já realizadas, para analisar padrões de produtividade e identificar oportunidades de melhoria em minha rotina.
+Identificação| US03 (Prioritária)
+--- | ---
 
-**US07:**
-Como planejadora, desejo filtrar tarefas por status, prioridade, responsável ou data de entrega, para encontrar rapidamente o que precisa ser feito e tomar decisões mais assertivas.
+Persona |
+User Story | Como planejadora estratégica, desejo atribuir tarefas a diferentes membros da equipe, para garantir que cada responsabilidade esteja claramente definida e acompanhada por quem deve executá-la.
+Critério de aceite 1| CR1: Os responsáveis recebem notificação automática ao serem atribuídos.
+Critério de aceite 2 |CR2: O usuário pode alternar entre diferentes projetos/categorias facilmente.
+Critério de aceite 3 | CR3: O painel de tarefas exibe claramente quem é responsável por cada atividade.
+Critérios INVEST |  **Independente:** Não depende de funcionalidades de comentários ou feedback. <br> **Negociável:** O número de responsáveis ou método de notificação pode ser ajustado conforme feedback. <br> **Valorosa:** Garante clareza de responsabilidades e melhora o acompanhamento das tarefas. <br> **Estimável:** O esforço para implementar atribuição e notificação é facilmente mensurável. <br> **Small:** Focada apenas na atribuição de tarefas, sem misturar com outros controles de equipe. <br> **Testável:** Pode-se testar se é possível atribuir, notificar e visualizar responsáveis corretamente.
 
-**US08:**
-Como usuária que preza por processos claros, desejo editar ou excluir tarefas já cadastradas, para manter minha lista sempre atualizada e alinhada às mudanças de prioridade ou escopo.
 
-**US09:**
-Como profissional que trabalha em campo e no escritório, desejo acessar o gerenciador de tarefas pelo celular com interface responsiva, para acompanhar e atualizar atividades de qualquer lugar.
+Identificação| US04 (Prioritária)
+--- | ---
 
-**US010:**
-Como pessoa que valoriza feedback, desejo receber lembretes automáticos de tarefas próximas do vencimento, para evitar atrasos e garantir que nada importante seja esquecido.
+Persona |
+User Story | Como usuária que valoriza integração, desejo receber notificações automáticas no Slack ou e-mail sempre que uma tarefa for criada, atualizada ou concluída, para me manter informada sem precisar acessar o sistema a todo momento.
+Critério de aceite 1| CR1: O sistema envia notificações automáticas no Slack ou e-mail conforme a configuração do usuário.
+Critério de aceite 2 |CR2: O usuário pode escolher quais tipos de eventos deseja ser notificado.
+Critério de aceite 3 | CR3: As notificações contêm informações claras sobre a tarefa e o evento ocorrido.
+Critérios INVEST |  **Independente:** Não depende de funcionalidades de chat interno ou relatórios. <br> **Negociável:** O canal de notificação e o conteúdo das mensagens podem ser ajustados. <br> **Valorosa:** Mantém o usuário informado em tempo real, mesmo fora da plataforma. <br> **Estimável:** O esforço técnico para integração com Slack e e-mail é claro e mensurável. <br> **Small:** Focada apenas no envio de notificações automáticas, sem misturar com outras integrações <br> **Testável:** Pode-se testar se as notificações são enviadas corretamente conforme as ações realizadas no sistema.
+
+
+Identificação| US05 (Prioritária)
+--- | ---
+
+Persona |
+User Story | Como esportista radical e profissional dinâmica, desejo marcar tarefas como concluídas de forma simples e rápida, para acompanhar meu progresso e sentir motivação ao ver minhas conquistas diárias.
+Critério de aceite 1| CR1: O sistema exibe um histórico filtrado por período (dia/semana/mês) com todas as tarefas concluídas.
+Critério de aceite 2 |CR2: O histórico inclui dados como tempo médio de conclusão, categorias mais frequentes e taxa de conclusão.
+Critério de aceite 3 | CR3: O usuário pode exportar o histórico em formato CSV ou PDF para análise externa.
+Critérios INVEST |  **Independente:** Não depende de relatórios avançados ou integrações externas. <br> **Negociável:** Os dados exibidos e formatos de exportação podem ser ajustados conforme feedback. <br> **Valorosa:** Facilita a identificação de padrões e melhoria contínua da produtividade. <br> **Estimável:** O escopo de coleta e exibição de dados históricos é claro. <br> **Small:** Focada apenas no histórico, sem misturar com funcionalidades de edição ou deleção. <br> **Testável:** Pode-se verificar se o histórico é preciso e se a exportação funciona corretamente.
+
+
+
+Identificação| US06 (Prioritária)
+--- | ---
+
+Persona |
+User Story | Como esportista radical e profissional dinâmica, desejo marcar tarefas como concluídas de forma simples e rápida, para acompanhar meu progresso e sentir motivação ao ver minhas conquistas diárias.
+Critério de aceite 1| CR1: O sistema exibe um histórico filtrado por período (dia/semana/mês) com todas as tarefas concluídas.
+Critério de aceite 2 |CR2: O histórico inclui dados como tempo médio de conclusão, categorias mais frequentes e taxa de conclusão.
+Critério de aceite 3 | CR3: O usuário pode exportar o histórico em formato CSV ou PDF para análise externa.
+Critérios INVEST |  **Independente:** Não depende de outras funcionalidades de busca ou ordenação. <br> **Negociável:** Tipos de filtros e combinações podem ser expandidos conforme necessidade. <br> **Valorosa:** Agiliza a tomada de decisão e o foco em tarefas críticas. <br> **Estimável:** A implementação de filtros básicos é facilmente dimensionável. <br> **Small:** Focada apenas na funcionalidade de filtragem, sem incluir relatórios ou gráficos. <br> **Testável:** Pode-se testar a aplicação de filtros individuais e combinados.
+
+
+
+Identificação| US07 (Prioritária)
+--- | ---
+
+Persona |
+User Story | Como esportista radical e profissional dinâmica, desejo marcar tarefas como concluídas de forma simples e rápida, para acompanhar meu progresso e sentir motivação ao ver minhas conquistas diárias.
+Critério de aceite 1| CR1: O sistema exibe um histórico filtrado por período (dia/semana/mês) com todas as tarefas concluídas.
+Critério de aceite 2 |CR2: O histórico inclui dados como tempo médio de conclusão, categorias mais frequentes e taxa de conclusão.
+Critério de aceite 3 | CR3: O usuário pode exportar o histórico em formato CSV ou PDF para análise externa.
+Critérios INVEST |  **Independente:** Não depende de outras funcionalidades de busca ou ordenação. <br> **Negociável:** Tipos de filtros e combinações podem ser expandidos conforme necessidade. <br> **Valorosa:** Agiliza a tomada de decisão e o foco em tarefas críticas. <br> **Estimável:** A implementação de filtros básicos é facilmente dimensionável. <br> **Small:** Focada apenas na funcionalidade de filtragem, sem incluir relatórios ou gráficos. <br> **Testável:** Pode-se testar a aplicação de filtros individuais e combinados.
+
 
 &nbsp;&nbsp;&nbsp;&nbsp; Essas User Stories foram elaboradas considerando os perfis, dores e objetivos de Mariana e Amanda, garantindo que o sistema ofereça funcionalidades alinhadas à realidade de profissionais modernos e exigentes. Ao priorizar essas histórias no desenvolvimento, o projeto potencializa a entrega de valor, promovendo organização, eficiência, integração e praticidade no dia a dia das usuárias. <br>
 
